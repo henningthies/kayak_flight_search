@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<searchresult>
+  <searchinstance/>
+  <searchid>QdCS5C</searchid>
+  <count>9</count>
+  <morepending>false</morepending>
+<!-- api results -->
+   <trips>
+             <trip id="163dc33038e0495a630b5f19b76cb453">
+        <price url="/book/flight?code=a13d9a33d2.Spz_Dd.0.F.ORBITZAIR.25919.163dc33038e0495a630b5f19b76cb453&amp;_sid_=17-Jmuz2rajdyYtbpnpmgKz" currency="USD">259</price>
+        <legs>
+           <leg>
+            <airline>AB</airline>
+            <airline_display>Air Berlin</airline_display>
+            <orig>HAM</orig>
+            <dest>ZRH</dest>
+            <depart>2010/03/05 10:45</depart>
+            <arrive>2010/03/05 14:00</arrive>
+            <stops>1</stops>
+            <duration_minutes>195</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>AB</airline>
+              <flight>6749</flight>
+              <duration_minutes>60</duration_minutes>
+              <equip>Boeing 737-700</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 10:45</dt>
+              <o>HAM</o>
+              <at>2010/03/05 11:45</at>
+              <d>DUS</d>
+              <cabin>Economy</cabin>
+            </segment>
+            <segment>
+              <airline>AB</airline>
+              <flight>8124</flight>
+              <duration_minutes>70</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 12:50</dt>
+              <o>DUS</o>
+              <at>2010/03/05 14:00</at>
+              <d>ZRH</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip id="bd639e2c0fe29c1b1d02fe7957889244">
+        <price url="/book/flight?code=f3c79f2d6e.Spz_Dd.0.F.ORBITZAIR.25919.bd639e2c0fe29c1b1d02fe7957889244&amp;_sid_=17-Jmuz2rajdyYtbpnpmgKz" currency="USD">259</price>
+        <legs>
+           <leg>
+            <airline>AB</airline>
+            <airline_display>Air Berlin</airline_display>
+            <orig>HAM</orig>
+            <dest>ZRH</dest>
+            <depart>2010/03/05 06:35</depart>
+            <arrive>2010/03/05 10:00</arrive>
+            <stops>1</stops>
+            <duration_minutes>205</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>AB</airline>
+              <flight>6745</flight>
+              <duration_minutes>60</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 06:35</dt>
+              <o>HAM</o>
+              <at>2010/03/05 07:35</at>
+              <d>DUS</d>
+              <cabin>Economy</cabin>
+            </segment>
+            <segment>
+              <airline>AB</airline>
+              <flight>8118</flight>
+              <duration_minutes>75</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 08:45</dt>
+              <o>DUS</o>
+              <at>2010/03/05 10:00</at>
+              <d>ZRH</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip id="c44fee95494f5eb7941e5cb994243a50">
+        <price url="/book/flight?code=7d6ecea0d3.Spz_Dd.0.F.ORBITZAIR.25919.c44fee95494f5eb7941e5cb994243a50&amp;_sid_=17-Jmuz2rajdyYtbpnpmgKz" currency="USD">259</price>
+        <legs>
+           <leg>
+            <airline>AB</airline>
+            <airline_display>Air Berlin</airline_display>
+            <orig>HAM</orig>
+            <dest>ZRH</dest>
+            <depart>2010/03/05 06:35</depart>
+            <arrive>2010/03/05 14:00</arrive>
+            <stops>1</stops>
+            <duration_minutes>445</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>AB</airline>
+              <flight>6745</flight>
+              <duration_minutes>60</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 06:35</dt>
+              <o>HAM</o>
+              <at>2010/03/05 07:35</at>
+              <d>DUS</d>
+              <cabin>Economy</cabin>
+            </segment>
+            <segment>
+              <airline>AB</airline>
+              <flight>8124</flight>
+              <duration_minutes>70</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 12:50</dt>
+              <o>DUS</o>
+              <at>2010/03/05 14:00</at>
+              <d>ZRH</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip id="693063db69c222b76c9f48474307ae80">
+        <price url="/book/flight?code=452e636e7d.Spz_Dd.0.F.U2.28012.693063db69c222b76c9f48474307ae80&amp;_sid_=17-Jmuz2rajdyYtbpnpmgKz" currency="USD">280</price>
+        <legs>
+           <leg>
+            <airline>U2</airline>
+            <airline_display>easyJet</airline_display>
+            <orig>HAM</orig>
+            <dest>BSL</dest>
+            <depart>2010/03/05 20:45</depart>
+            <arrive>2010/03/05 22:10</arrive>
+            <stops>0</stops>
+            <duration_minutes>85</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>U2</airline>
+              <flight>1028</flight>
+              <duration_minutes>85</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 20:45</dt>
+              <o>HAM</o>
+              <at>2010/03/05 22:10</at>
+              <d>BSL</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip id="b6f461d4dd11d77433267100381223c2">
+        <price url="/book/flight?code=3b87fc6713.Spz_Dd.0.F.ORBITZAIR.30019.b6f461d4dd11d77433267100381223c2&amp;_sid_=17-Jmuz2rajdyYtbpnpmgKz" currency="USD">300</price>
+        <legs>
+           <leg>
+            <airline>AB</airline>
+            <airline_display>Air Berlin</airline_display>
+            <orig>HAM</orig>
+            <dest>ZRH</dest>
+            <depart>2010/03/05 18:45</depart>
+            <arrive>2010/03/05 22:05</arrive>
+            <stops>1</stops>
+            <duration_minutes>200</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>AB</airline>
+              <flight>6753</flight>
+              <duration_minutes>55</duration_minutes>
+              <equip>Boeing 737-700</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 18:45</dt>
+              <o>HAM</o>
+              <at>2010/03/05 19:40</at>
+              <d>DUS</d>
+              <cabin>Economy</cabin>
+            </segment>
+            <segment>
+              <airline>AB</airline>
+              <flight>8172</flight>
+              <duration_minutes>65</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 21:00</dt>
+              <o>DUS</o>
+              <at>2010/03/05 22:05</at>
+              <d>ZRH</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip id="dca9529f0c03677c9ede425cf7a42002">
+        <price url="/book/flight?code=66ecfff1aa.Spz_Dd.0.F.ORBITZAIR.32719.dca9529f0c03677c9ede425cf7a42002&amp;_sid_=17-Jmuz2rajdyYtbpnpmgKz" currency="USD">327</price>
+        <legs>
+           <leg>
+            <airline>AB</airline>
+            <airline_display>Air Berlin</airline_display>
+            <orig>HAM</orig>
+            <dest>ZRH</dest>
+            <depart>2010/03/05 15:20</depart>
+            <arrive>2010/03/05 20:00</arrive>
+            <stops>1</stops>
+            <duration_minutes>280</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>AB</airline>
+              <flight>6751</flight>
+              <duration_minutes>60</duration_minutes>
+              <equip>Boeing 737-700</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 15:20</dt>
+              <o>HAM</o>
+              <at>2010/03/05 16:20</at>
+              <d>DUS</d>
+              <cabin>Economy</cabin>
+            </segment>
+            <segment>
+              <airline>AB</airline>
+              <flight>8520</flight>
+              <duration_minutes>75</duration_minutes>
+              <equip>Airbus A320-100/200</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 18:45</dt>
+              <o>DUS</o>
+              <at>2010/03/05 20:00</at>
+              <d>ZRH</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip id="513125e132372b92e0db696c97a0fa71">
+        <price url="/book/flight?code=e8a7a4379a.Spz_Dd.0.F.ORBITZAIR.32719.513125e132372b92e0db696c97a0fa71&amp;_sid_=17-Jmuz2rajdyYtbpnpmgKz" currency="USD">327</price>
+        <legs>
+           <leg>
+            <airline>AB</airline>
+            <airline_display>Air Berlin</airline_display>
+            <orig>HAM</orig>
+            <dest>ZRH</dest>
+            <depart>2010/03/05 15:20</depart>
+            <arrive>2010/03/05 22:05</arrive>
+            <stops>1</stops>
+            <duration_minutes>405</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>AB</airline>
+              <flight>6751</flight>
+              <duration_minutes>60</duration_minutes>
+              <equip>Boeing 737-700</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 15:20</dt>
+              <o>HAM</o>
+              <at>2010/03/05 16:20</at>
+              <d>DUS</d>
+              <cabin>Economy</cabin>
+            </segment>
+            <segment>
+              <airline>AB</airline>
+              <flight>8172</flight>
+              <duration_minutes>65</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 21:00</dt>
+              <o>DUS</o>
+              <at>2010/03/05 22:05</at>
+              <d>ZRH</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip id="8d369cdfd2b3b0b4488243edf71ffcbd">
+        <price url="/book/flight?code=88ad0e41a2.Spz_Dd.0.F.ORBITZAIR.33209.8d369cdfd2b3b0b4488243edf71ffcbd&amp;_sid_=17-Jmuz2rajdyYtbpnpmgKz" currency="USD">332</price>
+        <legs>
+           <leg>
+            <airline>MA</airline>
+            <airline_display>Malev Hungarian</airline_display>
+            <orig>HAM</orig>
+            <dest>ZRH</dest>
+            <depart>2010/03/05 10:00</depart>
+            <arrive>2010/03/05 19:30</arrive>
+            <stops>1</stops>
+            <duration_minutes>570</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>MA</airline>
+              <flight>541</flight>
+              <duration_minutes>100</duration_minutes>
+              <equip>Boeing 737-600</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 10:00</dt>
+              <o>HAM</o>
+              <at>2010/03/05 11:40</at>
+              <d>BUD</d>
+              <cabin>Economy</cabin>
+            </segment>
+            <segment>
+              <airline>MA</airline>
+              <flight>566</flight>
+              <duration_minutes>105</duration_minutes>
+              <equip>Boeing 737-600</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 17:45</dt>
+              <o>BUD</o>
+              <at>2010/03/05 19:30</at>
+              <d>ZRH</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip id="022b3edb58597941083d30c78f33d8c9">
+        <price url="/book/flight?code=3490f2c30a.Spz_Dd.0.F.WEGOLO.37190.022b3edb58597941083d30c78f33d8c9&amp;_sid_=17-Jmuz2rajdyYtbpnpmgKz" currency="USD">372</price>
+        <legs>
+           <leg>
+            <airline>4U</airline>
+            <airline_display>Germanwings</airline_display>
+            <orig>HAM</orig>
+            <dest>ZRH</dest>
+            <depart>2010/03/05 16:25</depart>
+            <arrive>2010/03/05 20:15</arrive>
+            <stops>1</stops>
+            <duration_minutes>230</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>4U</airline>
+              <flight>7032</flight>
+              <duration_minutes>60</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 16:25</dt>
+              <o>HAM</o>
+              <at>2010/03/05 17:25</at>
+              <d>CGN</d>
+              <cabin>Economy</cabin>
+            </segment>
+            <segment>
+              <airline>4U</airline>
+              <flight>762</flight>
+              <duration_minutes>65</duration_minutes>
+              <equip>Airbus A319</equip>
+              <miles>-1</miles>
+              <dt>2010/03/05 19:10</dt>
+              <o>CGN</o>
+              <at>2010/03/05 20:15</at>
+              <d>ZRH</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+
+           </trips>
+</searchresult>

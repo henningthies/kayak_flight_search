@@ -1,0 +1,72 @@
+= kayak_flight_search
+
+== About
+
+kayak_flight_search provides an object-oriented interface to the Kayak Labs Search API
+detailed at http://www.kayak.com/labs/api/search/.
+
+Source code is at http://github.com/henningthies/kayak_flight_search.
+
+NOTE: 
+Get a developer kay at http://www.kayak.com/labs/api/search/developerkey.html
+Kayak limited requests to 1000 searches/day based on a developer key, 
+but spread out over 24 hours, which really limits you to 41 searches/hour.
+
+== Installation
+
+Install +nokogiri+ if you don't already have it.
+
+Then install the gem by executing:
+
+  % gem install henningthies/kayak_flight_search
+
+== Usage
+
+In your config/environment.rb:
+
+  ENV['KAYAK_API_KEY'] ||= 'YOUR-API-KEY-HERE'
+
+A example program:
+
+ require 'rubygems'
+ require 'kayak_flight_search'
+
+ @client = KayakFlightSearch::Client.new
+ 
+ # look up for flight from HAM to MUC (Airport-Iata-Code)
+ # default_options = {
+ #   :depart_date => Date.today.beginning_of_month.next_month, 
+ #   :depart_time => "a", 
+ #   :return_date => Date.today.beginning_of_month.next_month + 7.days,
+ #   :return_time => "a", 
+ #   :oneway => "n",
+ #   :travelers => "2",
+ #   :cabin => "e",
+ #   :nearbyO => 1,
+ #   :nearbyD => 1 
+ # }
+ 
+ @result = @client.lookup(:depart_airport => "HAM", :arrival_airport => "MUC")
+ 
+ # Kayak Labs Search needs some time to get all results.
+ # try to update the response by calling @result.get_results until @result.response.more_pending is "false"
+ 
+ # straight text output
+ print <<edoc
+ #{ @result.response.trips.first.price} #{ @result.response.trips.first.currency}
+ with #{ @result.response.trips.first.legs.first.airline_display}
+ edoc
+
+There is a variety of detailed information in other attributes of the 
+KayakFlightSearch::Response object.
+
+== License
+
+This library is provided via the GNU LGPL license at http://www.gnu.org/licenses/lgpl.html.
+
+== Author
+
+Copyright 2010, Henning Thies <thies@ubilabs.net>, 
+http://www.ubilabs.net.
+
+Thanks to John Ford for inspiration http://github.com/JohnFord/kayak_search
