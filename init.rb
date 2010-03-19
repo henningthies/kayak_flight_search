@@ -1,1 +1,1 @@
-require File.join(File.dirname(__FILE__), "lib", "kayak_flight_search")
+require "kayak_flight_search"
